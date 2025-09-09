@@ -15,7 +15,9 @@ def foo(mark: int) -> str:
 
 try:
     a = int(input())
-except ValueError as e:
-    print("Incorrect input value")
-else:
     print(foo(a))
+
+except ValueError as v:
+    print(v)
+except AssertionError as e:
+    print(e)
