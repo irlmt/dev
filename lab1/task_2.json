@@ -1,0 +1,67 @@
+{
+    "files_list": [
+        {
+            "name": "2_01.ipynb",
+            "size": 61,
+            "extension": ".ipynb",
+            "modified_time": "2025-09-14 22:07:03"
+        },
+        {
+            "name": "2_02.ipynb",
+            "size": 61,
+            "extension": ".ipynb",
+            "modified_time": "2025-09-29 01:08:11"
+        },
+        {
+            "name": "3_01.ipynb",
+            "size": 61,
+            "extension": ".ipynb",
+            "modified_time": "2025-09-29 00:40:53"
+        }
+    ],
+    "counter_files_extentions": {
+        ".ipynb": 3
+    },
+    "files_by_size": {
+        "small": [
+            {
+                "name": "2_01.ipynb",
+                "size": 61,
+                "extension": ".ipynb",
+                "modified_time": "2025-09-14 22:07:03"
+            },
+            {
+                "name": "2_02.ipynb",
+                "size": 61,
+                "extension": ".ipynb",
+                "modified_time": "2025-09-29 01:08:11"
+            },
+            {
+                "name": "3_01.ipynb",
+                "size": 61,
+                "extension": ".ipynb",
+                "modified_time": "2025-09-29 00:40:53"
+            }
+        ]
+    },
+    "last_ten_files": [
+        {
+            "name": "2_01.ipynb",
+            "size": 61,
+            "extension": ".ipynb",
+            "modified_time": "2025-09-14 22:07:03"
+        },
+        {
+            "name": "2_02.ipynb",
+            "size": 61,
+            "extension": ".ipynb",
+            "modified_time": "2025-09-29 01:08:11"
+        },
+        {
+            "name": "3_01.ipynb",
+            "size": 61,
+            "extension": ".ipynb",
+            "modified_time": "2025-09-29 00:40:53"
+        }
+    ]
+}
